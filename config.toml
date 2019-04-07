@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseUrl = "joaoduraes.github.io/photography/"
+baseUrl = "https://joaoduraes.github.io/photography/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
