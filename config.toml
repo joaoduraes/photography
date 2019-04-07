@@ -1,7 +1,6 @@
 publishDir = "docs"
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "joaoduraes.github.io/"
 theme = "prologue"
 
 [params]
