@@ -1,4 +1,4 @@
-baseURL = "joaoduraes.github.io/photography/"
+baseURL = "https://joaoduraes.github.io/photography"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Joao Duraes"
