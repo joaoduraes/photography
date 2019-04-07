@@ -1,4 +1,4 @@
-baseURL = "joaoduraes.github.io/photography"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Joao Duraes"
 theme = "prologue"
